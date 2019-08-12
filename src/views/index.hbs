@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="/css/styles.css"/>
+        
+    </head>
+    <body>
+        <!--{{> header}}-->
+        <div><h1>Weather Search Page</h1></div>
+        <form>
+            <input placeholder='Enter Location'>
+            <button>Search</button>
+        </form>
+        
+        <select id="slct">
+            <option value="fahr">Fahrenheit</option>
+            <option value="cels">Celsius</option>
+        </select>
+        <p><b><u>Current Temperature: </u></b></p><p id='msg1'></p>
+        <p><b><u>Forecast Temperature for today: </u></b></p><p id='msg2'></p>
+        <p><b><u>Current Status: </u></b></p><p id='msg3'></p>
+        <p><b><u>Week Summary: </u></b></p><p id='msg4'></p>
+
+        {{> footer}}
+        <script type="text/javascript" src="/js/app.js"></script>
+    </body>
+</html>
