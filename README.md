@@ -1,6 +1,6 @@
 # Simplistic Weather App
 
-This is a simple weather app using NodeJS and Express. This application uses two 3rd party API to fetch the necessary weather data for a location. To run the program, respective API keys need to be generated from below API providers:
+This is a simple weather app using NodeJS and Express. This application uses two 3rd party APIs to fetch the necessary weather data for a location. To run the program, respective API keys need to be generated from below API providers:
 
 https://docs.mapbox.com/api/search/#geocoding
 
