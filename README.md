@@ -6,7 +6,7 @@ https://docs.mapbox.com/api/search/#geocoding
 
 https://darksky.net/dev
 
-Once registered and the API Keys are generated, substitute those keys in the weather.js file in 'utils' folder. Th places where value need to be replaced, are being marked as **<em>api token here</em>**
+Once registered and the API Keys are generated, substitute those keys in the weather.js file in 'utils' folder. The places where value need to be replaced, are being marked as **<em>api token here</em>**
 
 Also the localhost location need to be changed appropriately in the app.js file(under public). Need to be changed based on where the app is running.
 
